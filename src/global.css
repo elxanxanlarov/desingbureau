@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+html, body {
+    font-family: 'NeueHaasUnicaW1G-Regular', sans-serif;
+    font-weight: 100;
+    overflow-x: hidden;
+}
